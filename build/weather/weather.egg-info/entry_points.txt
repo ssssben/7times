@@ -1,3 +1,0 @@
-[console_scripts]
-weather_node = weather.weather_node:main
-
