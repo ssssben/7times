@@ -12,6 +12,7 @@ launch/talk_listen.launch.py
 mypkg/__init__.py
 mypkg/listener.py
 mypkg/talker.py
+resource/mypkg
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py

@@ -1,0 +1,16 @@
+[0.349s] Invoking command in '/home/bun/ros2_7th_ws/src/mypkg': PYTHONPATH=/home/bun/ros2_7th_ws/build/mypkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_7th_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/bun/ros2_7th_ws/build/mypkg/build install --record /home/bun/ros2_7th_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed install_data
+[0.465s] running egg_info
+[0.465s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.466s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.466s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.466s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.466s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.486s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.487s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.487s] running build
+[0.487s] running build_py
+[0.487s] running install
+[0.488s] running install_lib
+[0.489s] running install_data
+[0.489s] error: can't copy 'resource/mypkg': doesn't exist or not a regular file
+[0.501s] Invoked command in '/home/bun/ros2_7th_ws/src/mypkg' returned '1': PYTHONPATH=/home/bun/ros2_7th_ws/build/mypkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_7th_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/bun/ros2_7th_ws/build/mypkg/build install --record /home/bun/ros2_7th_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed install_data
