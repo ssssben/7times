@@ -1,0 +1,6 @@
+Invoking command in '/home/bun/ros2_ws/build/person_msgs': /usr/bin/cmake /home/bun/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/bun/ros2_ws/install/person_msgs
+Invoked command in '/home/bun/ros2_ws/build/person_msgs' returned '0': /usr/bin/cmake /home/bun/ros2_ws/src/person_msgs -DCMAKE_INSTALL_PREFIX=/home/bun/ros2_ws/install/person_msgs
+Invoking command in '/home/bun/ros2_ws/build/person_msgs': /usr/bin/cmake --build /home/bun/ros2_ws/build/person_msgs -- -j8 -l8
+Invoked command in '/home/bun/ros2_ws/build/person_msgs' returned '0': /usr/bin/cmake --build /home/bun/ros2_ws/build/person_msgs -- -j8 -l8
+Invoking command in '/home/bun/ros2_ws/build/person_msgs': /usr/bin/cmake --install /home/bun/ros2_ws/build/person_msgs
+Invoked command in '/home/bun/ros2_ws/build/person_msgs' returned '0': /usr/bin/cmake --install /home/bun/ros2_ws/build/person_msgs

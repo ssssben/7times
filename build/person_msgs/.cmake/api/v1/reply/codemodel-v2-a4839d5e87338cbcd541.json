@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "person_msgs__py",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/bun/ros2_ws/build/person_msgs/person_msgs__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "person_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs-eab56a59ef5c07ebbf09.json",
+					"name" : "person_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__cpp-fe8af4491d6a546abfbf.json",
+					"name" : "person_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "person_msgs__py::@15eeadf2bf903ec8c1d7",
+					"jsonFile" : "target-person_msgs__py-6aebcda87c3ada2fcdcd.json",
+					"name" : "person_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__python-ead1310f2821b815f2f3.json",
+					"name" : "person_msgs__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_generator_c-e66604dcc5bbb6743a3b.json",
+					"name" : "person_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_c-c1bfd2e0fce23c479f0a.json",
+					"name" : "person_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_c__pyext-4847b4c7b0068de824e8.json",
+					"name" : "person_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_cpp-42adb2950d557c100752.json",
+					"name" : "person_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_fastrtps_c-3534fb476e07e7431f1a.json",
+					"name" : "person_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_fastrtps_c__pyext-086239d722320b380d00.json",
+					"name" : "person_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_fastrtps_cpp-13d7530be2faba147f78.json",
+					"name" : "person_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_introspection_c-4a014ee81e911e38b673.json",
+					"name" : "person_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_introspection_c__pyext-df8e1af6e25778f6fabc.json",
+					"name" : "person_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs__rosidl_typesupport_introspection_cpp-eaf06d2f2d63331e12f8.json",
+					"name" : "person_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person_msgs_uninstall-df02ea8dd1e2d00b8898.json",
+					"name" : "person_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-afb83275e6e390bf32c4.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bun/ros2_ws/build/person_msgs",
+		"source" : "/home/bun/ros2_ws/src/person_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

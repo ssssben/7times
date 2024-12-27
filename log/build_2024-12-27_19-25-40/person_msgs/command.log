@@ -1,0 +1,4 @@
+Invoking command in '/home/bun/ros2_ws/build/person_msgs': /usr/bin/cmake --build /home/bun/ros2_ws/build/person_msgs -- -j8 -l8
+Invoked command in '/home/bun/ros2_ws/build/person_msgs' returned '0': /usr/bin/cmake --build /home/bun/ros2_ws/build/person_msgs -- -j8 -l8
+Invoking command in '/home/bun/ros2_ws/build/person_msgs': /usr/bin/cmake --install /home/bun/ros2_ws/build/person_msgs
+Invoked command in '/home/bun/ros2_ws/build/person_msgs' returned '0': /usr/bin/cmake --install /home/bun/ros2_ws/build/person_msgs
