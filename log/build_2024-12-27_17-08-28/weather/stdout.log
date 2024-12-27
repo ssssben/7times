@@ -1,0 +1,6 @@
+running egg_info
+writing ../build/weather/weather.egg-info/PKG-INFO
+writing dependency_links to ../build/weather/weather.egg-info/dependency_links.txt
+writing entry points to ../build/weather/weather.egg-info/entry_points.txt
+writing requirements to ../build/weather/weather.egg-info/requires.txt
+writing top-level names to ../build/weather/weather.egg-info/top_level.txt

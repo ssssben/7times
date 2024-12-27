@@ -1,0 +1,8 @@
+setup.py
+../build/weather/weather.egg-info/PKG-INFO
+../build/weather/weather.egg-info/SOURCES.txt
+../build/weather/weather.egg-info/dependency_links.txt
+../build/weather/weather.egg-info/entry_points.txt
+../build/weather/weather.egg-info/requires.txt
+../build/weather/weather.egg-info/top_level.txt
+weather/setup.py
