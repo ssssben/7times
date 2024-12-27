@@ -1,0 +1,24 @@
+running egg_info
+creating ../build/weather/weather.egg-info
+writing ../build/weather/weather.egg-info/PKG-INFO
+writing dependency_links to ../build/weather/weather.egg-info/dependency_links.txt
+writing entry points to ../build/weather/weather.egg-info/entry_points.txt
+writing requirements to ../build/weather/weather.egg-info/requires.txt
+writing top-level names to ../build/weather/weather.egg-info/top_level.txt
+writing manifest file '../build/weather/weather.egg-info/SOURCES.txt'
+package init file 'weather/__init__.py' not found (or not a regular file)
+reading manifest file '../build/weather/weather.egg-info/SOURCES.txt'
+writing manifest file '../build/weather/weather.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/bun/ros2_ws/build/weather/build
+creating /home/bun/ros2_ws/build/weather/build/lib
+creating /home/bun/ros2_ws/build/weather/build/lib/weather
+copying weather/setup.py -> /home/bun/ros2_ws/build/weather/build/lib/weather
+running install
+running install_lib
+creating /home/bun/ros2_ws/install/weather/lib/python3.8/site-packages/weather
+copying /home/bun/ros2_ws/build/weather/build/lib/weather/setup.py -> /home/bun/ros2_ws/install/weather/lib/python3.8/site-packages/weather
+byte-compiling /home/bun/ros2_ws/install/weather/lib/python3.8/site-packages/weather/setup.py to setup.cpython-38.pyc
+running install_data
+error: can't copy 'resource/weather': doesn't exist or not a regular file

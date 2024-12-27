@@ -1,0 +1,9 @@
+[0.472s] Invoking command in '/home/bun/ros2_ws/src': PYTHONPATH=/home/bun/ros2_ws/build/weather/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_ws/install/weather/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/weather build --build-base /home/bun/ros2_ws/build/weather/build install --record /home/bun/ros2_ws/build/weather/install.log --single-version-externally-managed install_data
+[0.593s] running egg_info
+[0.593s] writing ../build/weather/weather.egg-info/PKG-INFO
+[0.594s] writing dependency_links to ../build/weather/weather.egg-info/dependency_links.txt
+[0.594s] writing entry points to ../build/weather/weather.egg-info/entry_points.txt
+[0.594s] writing requirements to ../build/weather/weather.egg-info/requires.txt
+[0.594s] writing top-level names to ../build/weather/weather.egg-info/top_level.txt
+[0.620s] error: package directory 'weather' does not exist
+[0.632s] Invoked command in '/home/bun/ros2_ws/src' returned '1': PYTHONPATH=/home/bun/ros2_ws/build/weather/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bun/ros2_ws/install/weather/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/weather build --build-base /home/bun/ros2_ws/build/weather/build install --record /home/bun/ros2_ws/build/weather/install.log --single-version-externally-managed install_data
